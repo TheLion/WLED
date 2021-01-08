@@ -62,7 +62,7 @@
 /* each segment uses 52 bytes of SRAM memory, so if you're application fails because of
   insufficient memory, decreasing MAX_NUM_SEGMENTS may help */
 #ifdef ESP8266
-  #define MAX_NUM_SEGMENTS 16
+  #define MAX_NUM_SEGMENTS 17
 #else
   #define MAX_NUM_SEGMENTS 16
 #endif
