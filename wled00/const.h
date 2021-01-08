@@ -6,8 +6,8 @@
  */
 
 //Defaults
-#define DEFAULT_CLIENT_SSID "Your_Network"
-#define DEFAULT_AP_PASS     "wled1234"
+#define DEFAULT_CLIENT_SSID "hotspot.fourpets.net"
+#define DEFAULT_AP_PASS     "5f6621794227232b4949522e7e2137753e582e4f"
 #define DEFAULT_OTA_PASS    "wledota"
 
 //increase if you need more
